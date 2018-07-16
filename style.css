@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+
+body {
+    text-align: center;
+    font-family: 'Open Sans', arial;
+    color: #333;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+}
+
+div {
+    background-color: rgba(255, 255, 255, 0.3);
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-family: 'Abril Fatface', arial;
+    font-size: 2em;
+}
+
+h2 {
+    font-size: 1.2em;
+    margin: 50px;
+}
+
+button {
+    color: #333;
+    padding: 15px 20px;
+    border-radius: 10px;
+    font-family: 'Open Sans', arial;
+    font-size: 1.1em;
+    border: 1px solid #333;
+    background-color: #ff8c7f;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    div {
+        max-width: 90%;
+    }
+}
