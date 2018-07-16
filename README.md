@@ -1,4 +1,4 @@
-## Who's the Driver?
+# Who's the Driver?
 
 Allows your class to easily pick who the driver is when pair-programming.
 
