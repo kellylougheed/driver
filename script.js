@@ -28,7 +28,7 @@ window.onload = function() {
         "went to a museum most recently",
         "watched the most TV last night",
         "can name the most song titles with 'love' in them",
-        "listened to museum most recently",
+        "listened to music most recently",
         "has the shortest pinky",
         "is the tallest",
         "is the shortest",
