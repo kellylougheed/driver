@@ -8,7 +8,6 @@ window.onload = function() {
         "has a last name that begins with a letter closest to the end of the alphabet",
         "has the most letters in their name",
         "most recently finished reading a book",
-        "subscribes to more magazines",
         "has a phone number with the lowest last digit",
         "has a phone number with the highest last digit",
         "has a phone number with the lowest first digit",
