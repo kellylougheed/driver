@@ -41,7 +41,7 @@ window.onload = function() {
         resP.innerText = "Whoever " + possibilities[random];
     }
     
-    newRes();
+    resP.innerText = "Whoever " + possibilities[2];
     
     button.addEventListener('click', newRes);
 }
