@@ -6,6 +6,10 @@ window.onload = function() {
         "'s last name comes first alphabetically",
         "'s first name comes last alphabetically",
         "'s last name comes last alphabetically",
+        "'s middle name comes last alphabetically",
+        "'s middle name comes last alphabetically",
+        "'s middle name is longer",
+        "'s middle name is shorter",
         "most recently finished reading a book",
         "'s phone number has the lowest last digit",
         "'s phone number has the highest last digit",
@@ -25,6 +29,8 @@ window.onload = function() {
         "is the shortest",
         "has more pets",
         "has fewer pets",
+        "has the pet with the longest name",
+        "has the pet with the shortest name",
         "has more siblings",
         "has fewer siblings",
         "remembers the most dreams from last night",
@@ -37,7 +43,9 @@ window.onload = function() {
         "made their bed most recently",
         "started their homework the earliest yesterday",
         "started their homework the latest yesterday",
-        "is carrying the most writing utensils"
+        "is carrying the most writing utensils",
+        "got the most sleep last night",
+        "got the least sleep last night"
     ];
     
     function newRes() {
