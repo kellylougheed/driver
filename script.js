@@ -20,7 +20,6 @@ window.onload = function() {
         "got up the earliest this morning",
         "has the longest hair",
         "has the shortest hair",
-        "took the most recent photo",
         "watched a movie most recently",
         "watched the most TV last night",
         "listened to music most recently",
